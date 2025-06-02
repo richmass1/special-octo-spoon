@@ -1,0 +1,26 @@
+{
+	"ii": [],
+	"v": [],
+	"vii": [
+		{
+			'title': 'Sector Columbia River, Submerged Land Act (SLA) - Columbia/General/Bridges/Repairs, Painting, Or Fender Replacement',
+			'action': 'painting and making repairs',
+			'region': 'Columbia River',
+			'location': 'I-82 Highway Bridge across the Columbia River at river mile 290.5',
+			'dates': {'start': '25 Sep 23',
+								'end': '31 Oct 25',
+								'ETA Unknown': 'False',
+								'other': ''},
+			'geo': {'type': 'Feature',
+							'geometry': {'type': 'Point', 'coordinates': [-119.328611, 45.931667]},
+							'properties': {'name': 'I-82 Highway Bridge'}},
+			'contacts': [{'name': 'Alex Sanguino',
+										'phone': '(509) 222-2403',
+										'email': 'sanguia@wsdot.wa.gov'},
+									{'name': 'Andres Mendoza',
+										'phone': '(509) 222-2440',
+										'email': 'mendoza@wsdot.wa.gov'}],
+			'summary': 'WSDOT will be painting and making repairs on the I-82 Highway Bridge across the Columbia River. Construction will occur from 25 Sep 23 to 31 Oct 25, with 24/7 working hours. A containment system will be attached to the bridge, reducing vertical clearance by 10 feet. Mariners are advised to use caution. Contact Alex Sanguino or Andres Mendoza for more information.'
+		}
+	]
+}

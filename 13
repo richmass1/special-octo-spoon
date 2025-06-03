@@ -14,7 +14,7 @@
 			"geo": {"type": "Feature",
 							"geometry": {"type": "Point", "coordinates": [-119.328611, 45.931667]},
 							"properties": {"name": "I-82 Highway Bridge"}},
-			"contacts": [{"name": "Alex Sanguino",
+			"contact": [{"name": "Alex Sanguino",
 										"phone": "(509) 222-2403",
 										"email": "sanguia@wsdot.wa.gov"},
 									{"name": "Andres Mendoza",

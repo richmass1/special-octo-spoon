@@ -12,7 +12,7 @@
 		 "geo": {"type": "Feature",
 						 "geometry": {"type": "Point",
 													"coordinates": [-118.39995, 32.8168]},
-						 "properties": {"name": "Anchor 1"}},
+						 "properties": {"name": "Anchor 1"}}},
 		{"summary": {"en-US": "1. OCEANSIDE APPROACH LIGHTED WHISTLE BUOY OC (LLNR 2290) HAS BEEN REPORTED NOT EMITTING SOUND.  \n2. ALL MARINERS ARE ADVISED TO TRANSIT THE AREA WITH CAUTION.\n\nBT",
 								 "es-ES": "1. LA BOYA DE SILBATO ILUMINADA DE APROXIMACIÓN DE OCEANSIDE OC (LLNR 2290) HA SIDO REPORTADA COMO NO EMITIENDO SONIDO. 2. SE ACONSEJA A TODOS LOS MARINEROS TRANSITAR EL ÁREA CON PRECAUCIÓN."},
 		 "link": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3e343de",

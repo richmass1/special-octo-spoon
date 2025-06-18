@@ -1,0 +1,31 @@
+{
+	"etag": "W/\"asdfasdfasdf\"", 
+	"feed": [
+		{"summary": {"en-US": "1. The USN will be conducting Hazardous Ops in the areas bounded by following coordinates:  \nAnchor 1: 60FT, 32-49.008 N 118-23.997 W  \nAnchor 2: 60FT, 32-49.085 N 118-23.889 W  \n2. Areas will be in vicinity of Pyramid Cove (Moored buoys in Pyramid Cove)  \n3. Operations will be conducted from 171500Z Jun 25 TO 232300Z Jun 25.  \nCANCEL AT//252300Z JUN 25//\n\nBT",
+             "es-ES": "1. La USN llevará a cabo operaciones peligrosas en las áreas delimitadas por las siguientes coordenadas: \nAncla 1: 60FT, 32-49.008 N 118-23.997 W \nAncla 2: 60FT, 32-49.085 N 118-23.889 W \n2. Las áreas estarán en las cercanías de Pyramid Cove (Boyas amarradas en Pyramid Cove) \n3. Las operaciones se llevarán a cabo del 171500Z Jun 25 AL 232300Z Jun 25. \nCANCELAR A//252300Z JUN 25//\n\nBT"},
+		 "link": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3e4960c",
+		 "title": "SAFETY/SOUTHERN CA/HAZ OPS/SEC SSD BNM 0094-25",
+		 "published": "Wed, 11 Jun 2025 08:41:11 -0500",
+		 "type": "post",
+		 "bnm": "SEC SSD BNM 0094-25",
+		 "dates": ["2025-06-17T15:00:00Z", "2025-06-23T23:00:00Z"],
+		 "geo": {"type": "FeatureCollection",
+						 "features": [{"type": "Feature",
+													 "geometry": {"type": "Point",
+																				"coordinates": [-118.39995, 32.8168]},
+													 "properties": {"name": "Anchor 1"}},
+													{"type": "Feature",
+													 "geometry": {"type": "Point",
+																				"coordinates": [-118.39815, 32.81808]},
+													 "properties": {"name": "Anchor 2"}}]}},
+		{"summary": {"en-US": "1. OCEANSIDE APPROACH LIGHTED WHISTLE BUOY OC (LLNR 2290) HAS BEEN REPORTED NOT EMITTING SOUND.  \n2. ALL MARINERS ARE ADVISED TO TRANSIT THE AREA WITH CAUTION.\n\nBT",
+								 "es-ES": "1. LA BOYA DE SILBATO ILUMINADA DE APROXIMACIÓN DE OCEANSIDE OC (LLNR 2290) HA SIDO REPORTADA COMO NO EMITIENDO SONIDO. 2. SE ACONSEJA A TODOS LOS MARINEROS TRANSITAR EL ÁREA CON PRECAUCIÓN."},
+		 "link": "https://content.govdelivery.com/accounts/USDHSCG/bulletins/3e343de",
+		 "title": "SAFETY/OCEANSIDE, CA/ATON/SEC SSD BNM 0093-25",
+		 "published": "Mon, 02 Jun 2025 20:11:33 -0500",
+		 "type": "post",
+		 "bnm": "SEC SSD BNM 0093-25",
+		 "llnr": ["2290"],
+		 "dates": []}
+	]
+}
